@@ -1,11 +1,3 @@
-EX2.
-
-Name : Moshe Ben Avi
-ID : 308248129
-
-Name : Daniel Okanin
-ID : 204331623
-
 Highlights for the game :
 
 The joker does not trample existing shapes, but skips them if there is empty space .
